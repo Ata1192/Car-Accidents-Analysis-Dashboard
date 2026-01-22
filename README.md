@@ -1,8 +1,10 @@
 
 
 ## Car Accidents Analysis Dashboard: Traffic
-Safety Awareness and Prevention
+Interactive traffic accident analysis dashboard providing insights into trends, risk factors, and safety through data visualization.
 
+## Live Demo
+https://caraccidentsanalysisdashboard.netlify.app/
 ## Group Members
 - 2370493 - Olgu ŞİMŞİR
 - 23000447 - Bade Su ÖZTÜRK
