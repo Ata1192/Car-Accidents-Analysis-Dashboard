@@ -4,11 +4,11 @@
 Safety Awareness and Prevention
 
 ## Group Members
--2370493 - Olgu ŞİMŞİR
--23000447 - Bade Su ÖZTÜRK
--2300463 - Elif Bilge Yavuz
--23000438 - Ata METİN
--23000452 - Berat SAKARYA
+- 2370493 - Olgu ŞİMŞİR
+- 23000447 - Bade Su ÖZTÜRK
+- 2300463 - Elif Bilge Yavuz
+- 23000438 - Ata METİN
+- 23000452 - Berat SAKARYA
 ## Abstract
 Traffic accidents have remained an area of global concern for road safety with significant
 loss of life and economic costs every year. High levels of awareness with regard to traffic
